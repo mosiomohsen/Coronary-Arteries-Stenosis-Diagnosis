@@ -1,2 +1,3 @@
 # Coronary-Arteries-Stenosis-Diagnosis
-using deep neural network and lightgbm in healthcare.
+In this project we have used a deep neural network and a lightgbm model for diagnosis of Coronary Arteries Stenosis.
+
