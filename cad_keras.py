@@ -33,7 +33,7 @@ def f1(y_true, y_pred):
     return 2*((precision*recall)/(precision+recall+K.epsilon()))
 
 
-df = pd.read_excel('C:/Users/Internet/Downloads/CAD.xlsx')
+df = pd.read_excel('CAD.xlsx')
 df.head()
 
 X = df.drop(['Cath'], axis=1)
